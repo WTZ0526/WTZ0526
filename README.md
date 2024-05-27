@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm currently a Cybersecurity student at Northeast
 
 ## Connect with Me
 - LinkedIn: [Tianzhi Wang](https://www.linkedin.com/in/tzhi-wang)
-- Email: [tzhi@endoqa.net](mailto:tzhi@endoqa.net)
+- Email: [wang.tianzh@northeastern.edu](mailto:wang.tianzh@northeastern.edu)
 
 ## More About Me
 I might not be working on any specific projects right now, but I'm constantly absorbing new knowledge and skills in my field. Feel free to reach out if you want to discuss cybersecurity, collaborate, or just say hi!
